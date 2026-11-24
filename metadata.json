@@ -1,0 +1,6 @@
+{
+  "name": "My Pro Calendar",
+  "description": "A precision-crafted week, month, and year calendar with Google Calendar sync, live clock, and custom event reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
